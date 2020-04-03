@@ -3,6 +3,7 @@ public class Utilisateur {
 	/* __________props____________ */
 	private int id;
 	private String nom;
+	private String prenom;
 	
 	/* ___________ ctors_____________ */
 	public Utilisateur() {
